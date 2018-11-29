@@ -7,6 +7,17 @@
   justify-content:space-between;
   
 }
-p{
-  color:black;
+h1{
+  border: dotted gold 2px;
+}
+body{
+background-image: url("https://i.etsystatic.com/13985333/r/il/1f608b/1300315032/il_fullxfull.1300315032_srd7.jpg");
+background-repeat:no-repeat;
+background-size: 1500px 800px;
+color:white;
+}
+#points{
+  display:flex;
+  justify-content:space-between;
+  
 }
